@@ -1,9 +1,9 @@
 # Send email using python 
 send email using python in gmail
 
-1. Account username and password are not accepted by gmail since June 02,2022 in third party apps due to less secure way they use to login to gmail. In our case, we use SMTP to send email.
-2. Therefore, we need to create an app password in go account.
-3. Login to gmail. CLick dot matrix in top right ie google apps icon. Click account. This will open Google account page.
+1. Account username and password are not accepted by gmail since May 30, 2022 in third party apps due to less secure way they use to login to gmail. In our case, we use SMTP to send email.
+2. Therefore, we need to create an app password in google account.
+3. Login to gmail. Click dot matrix in top right ie google apps icon. Click account. This will open Google account page.
 
 ![step 1](1.jpg?raw=true)
 
