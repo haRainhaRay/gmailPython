@@ -1,4 +1,4 @@
-# gmailPython
+# Send email using python 
 send email using python in gmail
 
 1. Account username and password are not accepted by gmail since June 02,2022 in third party apps due to less secure way they use to login to gmail. In our case, we use SMTP to send email.
