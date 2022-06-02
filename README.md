@@ -18,3 +18,5 @@ send email using python in gmail
 ![step 4](4.jpg?raw=true)
 
 6. To know more about app passwords, click https://support.google.com/accounts/answer/185833?hl=en#zippy=%2Cwhy-you-may-need-an-app-password
+
+7. Use send email.py to send the email. Don't forget to add from and to email ids and app password.
