@@ -1,5 +1,6 @@
 import smtplib
 
+#change the following 3 lines for your case.
 fromEmail='YOUR_EMAIL@gmail.com'
 emailPass='YOUR GENERATED APP PASSWORD' 
 toEmail='TO_EMAIL@gmail.com'
