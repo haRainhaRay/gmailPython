@@ -5,7 +5,7 @@ fromEmail='YOUR_EMAIL@gmail.com'
 emailPass='YOUR GENERATED APP PASSWORD' 
 toEmail='TO_EMAIL@gmail.com'
 
-with smtplib.SMTP_SSL('smtp.gmail.com',465) as smtp: #instead of only SMTP used in firstemail code, here SMTP_SSL is used, port name is also changed
+with smtplib.SMTP_SSL('smtp.gmail.com',465) as smtp:
     smtp.login(fromEmail,emailPass)
 
     subject='This email has been sent using Python'
